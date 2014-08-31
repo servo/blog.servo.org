@@ -5,7 +5,7 @@ baseurl: "https://manishearth.github.io/blog.servo.org/"
 url: "http://blog.servo.org"
 google_analytics: 
 
-# Build settings
+#  Build settings
 markdown: kramdown
 permalink: pretty
 paginate: 3
