@@ -1,0 +1,11 @@
+# Site settings
+title: "Servo Blog"
+description: ""
+baseurl: "https://manishearth.github.io/blog.servo.org/"
+url: "http://blog.servo.org"
+google_analytics: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
