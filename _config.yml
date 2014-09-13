@@ -1,7 +1,6 @@
 # Site settings
 title: "Servo Blog"
 description: ""
-baseurl: "http://blog.servo.org"
 url: "http://blog.servo.org"
 google_analytics: 
 
