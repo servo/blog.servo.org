@@ -5,5 +5,5 @@ currently redirects.
 
 # Contributing
 
-To add a blog post, write it in a markdown file at `_blog/YYYY-MM-DD-title.md`
+To add a blog post, write it in a markdown file at `_posts/YYYY-MM-DD-title.md`
 and submit a pull request to this repository.
