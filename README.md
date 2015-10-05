@@ -13,10 +13,10 @@ and submit a pull request to this repository.
 First, copy one of the other instances of the TWiS posts, changing the filename and two
 places within the file to have the date for the Monday.
 
-To get the list of PRs merged in the last week, do the following query, using the Monday of last week to the
-Sunday of this week (performed on Monday):
+To get the list of PRs merged across all Servo organization repos in the last week, do the following query, using
+the Monday of last week to the Sunday of this week (performed on Monday):
 ```
-    https://github.com/servo/servo/pulls?q=is%3Apr+is%3Amerged+closed%3A2015-09-21..2015-09-27
+  https://github.com/pulls?page=1&q=is%3Apr+is%3Amerged+closed%3A2015-09-27..2015-10-05+user%3Aservo
 ```
 
 New contributors can be retrieved by updating your Servo repo, checking out a hash for first thing
