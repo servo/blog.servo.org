@@ -2,7 +2,7 @@
 title: "Servo Blog"
 description: ""
 url: "http://blog.servo.org"
-baseurl: "http://servo.github.io/blog.servo.org"
+baseurl: "servo.github.io/blog.servo.org"
 google_analytics: 
 
 #  Build settings
