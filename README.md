@@ -1,7 +1,6 @@
 # blog.servo.org
 
-This is the servo blog, to which [servo.org](https://github.com/servo/servo.org)
-currently redirects. 
+This is code for the servo blog: http://blog.servo.org
 
 # Contributing
 
