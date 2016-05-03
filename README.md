@@ -1,6 +1,6 @@
 # blog.servo.org
 
-This is code for the servo blog: http://blog.servo.org
+This is code for the servo blog: https://blog.servo.org
 
 # Contributing
 
