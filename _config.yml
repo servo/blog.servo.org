@@ -7,7 +7,7 @@ google_analytics:
 
 #  Build settings
 permalink: pretty
-paginate: 3
+paginate: 10
 
 gems:
   - jekyll-redirect-from
