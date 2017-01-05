@@ -9,6 +9,9 @@ google_analytics:
 permalink: pretty
 paginate: 10
 
+twitter:
+  - username: ServoDev
+
 gems:
   - jekyll-redirect-from
   - jekyll-seo-tag
