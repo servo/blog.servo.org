@@ -10,7 +10,7 @@ permalink: pretty
 paginate: 10
 
 twitter:
-  - username: ServoDev
+  username: ServoDev
 
 gems:
   - jekyll-redirect-from
